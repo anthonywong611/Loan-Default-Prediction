@@ -4,9 +4,7 @@ Loan Default Prediction
 Analyze past borrowers' employment and credit history to predict new borrowers' behavior in defaulting a loan.
 
 Project Organization
-
 ------------
-
    ├── LICENSE
    ├── Makefile           <- Makefile with commands like `make data` or `make train`
    ├── README.md          <- The top-level README for developers using this project.
@@ -51,6 +49,4 @@ Project Organization
    │       └── visualize.py
    │
    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
-
 --------
